@@ -64,4 +64,4 @@ typings/
 dist/
 
 #database temp folder
-tmp/app.db
+db/app.db
